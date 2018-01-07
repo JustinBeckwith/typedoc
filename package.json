@@ -80,5 +80,8 @@
     "documentation",
     "generator",
     "gruntplugin"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
